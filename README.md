@@ -20,7 +20,7 @@
 
     <!-- Tentang Saya -->
     <section class="about">
-        <img src="assets/images/profile.jpg" alt="Foto Profil" />
+        <img src="assets/images/profile.jpg" alt="foto profil" />
         <div>
             <h2>Tentang Saya</h2>
             <p>Saya adalah siswa jurusan <strong>Desain Komunikasi Visual (DKV)</strong> yang memiliki minat besar dalam
@@ -54,8 +54,8 @@
   <div class="gallery">
 
     <div class="portfolio-item">
-      <img src="assets/images/tugas-faizal-desain.jpg" alt="Poster Promosi">
-      <h3>Poster Promosi</h3>
+      <img src="assets/images/tugas-faizal-desain.jpg" alt="poster promosi">
+      <h3>Poster promosi</h3>
       <p>
         Desain poster promosi yang dibuat menggunakan <strong>coreldraw</strong>
         untuk melatih komposisi warna, tipografi, dan penyampaian pesan visual.
@@ -63,8 +63,8 @@
     </div>
 
     <div class="portfolio-item">
-      <img src="C:/Project_Faisal/assets/images/faizal.png" alt="Desain Media Sosial">
-      <h3>Desain Media Sosial</h3>
+      <img src="C:/project_faisal/assets/images/faizal.png" alt="desain media sosial">
+      <h3>desain media sosial</h3>
       <p>
         Konten visual media sosial yang dirancang menggunakan <strong>Canva</strong>
         dengan fokus pada layout sederhana dan konsistensi brand.
