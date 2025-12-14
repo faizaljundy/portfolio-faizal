@@ -20,7 +20,7 @@
 
     <!-- Tentang Saya -->
     <section class="about">
-        <img src="assets/images/profile.jpg" alt="foto profil" />
+        <img src="assets/images/profile.jpg" alt="Foto Profil">
         <div>
             <h2>Tentang Saya</h2>
             <p>Saya adalah siswa jurusan <strong>Desain Komunikasi Visual (DKV)</strong> yang memiliki minat besar dalam
@@ -54,7 +54,7 @@
   <div class="gallery">
 
     <div class="portfolio-item">
-      <img src="assets/images/tugas-faizal-desain.jpg" alt="poster promosi">
+      <img src="assets/images/tugas-faizal-desain.jpg" alt="Karya 1">
       <h3>Poster promosi</h3>
       <p>
         Desain poster promosi yang dibuat menggunakan <strong>coreldraw</strong>
@@ -63,7 +63,7 @@
     </div>
 
     <div class="portfolio-item">
-      <img src="C:/project_faisal/assets/images/faizal.png" alt="desain media sosial">
+      <img src="assets/images/foto.jpg" alt="Karya 2">
       <h3>desain media sosial</h3>
       <p>
         Konten visual media sosial yang dirancang menggunakan <strong>Canva</strong>
